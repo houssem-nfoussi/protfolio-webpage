@@ -1,0 +1,10 @@
+body {
+    background-color: #e8e1dd; 
+  }
+  body {
+    font-family: Arial, sans-serif;
+  }
+  nav ul li {
+    display: inline;
+    padding: 20px; /* optional padding for each list item */
+  }
